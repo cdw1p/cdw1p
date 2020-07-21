@@ -8,8 +8,8 @@
 - ✨ Interested in backend & mobile development
 - 📫 Reach me via [twitter](https://twitter.com/cdw1id) or [facebook](https://www.facebook.com/cdw1.id/)
 
-<a href="https://now-playing-yogs.vercel.app/api/now-playing">
-    <img src="https://now-playing-yogs.vercel.app/api/now-playing" align="right" width="256" height="100" alt="Now Playing">
-</a>
+### 🌱 Current Research :   
+- Machine Learning  
+- Artifical Inteligent  
 
 [![🦉 Cahyo Dwi's github stats](https://github-readme-stats.vercel.app/api?username=cdw1p&show_icons=true)](https://github.com/cdw1p)
