@@ -11,6 +11,6 @@
 
 ### 🌱 Current Research :   
 - Machine Learning  
-- Artifical Inteligent  
+- Artificial Intelligence  
 
 [![🦉 Cahyo Dwi's github stats](https://github-readme-stats.vercel.app/api?username=cdw1p&show_icons=true)](https://github.com/cdw1p)
