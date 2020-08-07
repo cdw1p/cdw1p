@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="100px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on PT Pelabuhan Indonesia III
+- 🔭 I’m currently working on PT Pelindo Daya Sejahtera
 - ✨ Interested in backend & mobile development
 - 📫 Reach me via [twitter](https://twitter.com/cdw1id) or [facebook](https://www.facebook.com/cdw1.id/)
 
