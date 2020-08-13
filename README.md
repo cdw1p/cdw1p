@@ -1,4 +1,4 @@
-Cybersecurity Expert (Security Analyst, Red & Blue Team) , Programming Language Agnostic , Tech Enthusiast , Mobile Developer and Fullstack Web Developer.
+Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile and Web Developer.
 
 # Cahyo Dwi Putro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
