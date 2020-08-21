@@ -3,6 +3,7 @@ Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdw1p&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=cdw1p)
 [![Linkedin: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cdw1/)](https://www.linkedin.com/in/cdw1/)
+[![Facebook: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cdw1.id/)](https://www.facebook.com/cdw1.id/)
 
 # Cahyo Dwi Putro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
@@ -16,7 +17,7 @@ Hi, I'm Cahyo Dwi Putro 👨 (he/him) — a freelance, remote security analyst a
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via cdw1@outlook.co.id to reach me.
 
-## 📊 Some Performance Statistics
+### 📊 Some Performance Statistics
 
 <a href="https://github.com/cdw1p/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdw1p&hide=html" />
