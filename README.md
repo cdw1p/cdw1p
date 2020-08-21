@@ -13,7 +13,7 @@ Hi, I'm Cahyo Dwi Putro 👨 (he/him) — a freelance, remote security analyst a
 
 - 📖 I’m currently learning machine learning and artificial intelligence;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Informatics Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via cdw1@outlook.co.id to reach me.
 
