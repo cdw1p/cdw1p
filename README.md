@@ -20,8 +20,8 @@ Hi, I'm Cahyo Dwi Putro 👨 (he/him) — a freelance, remote security analyst a
 ### 📊 Some Performance Statistics
 
 <a href="https://github.com/cdw1p/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdw1p&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdw1p&layout=compact" alt="cdw1p's github stats" />
 </a>
 <a href="https://github.com/cdw1p/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdw1p&count_private=true&show_icons=true&line_height=40" alt="cdw1p's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdw1p&hide=issues&count_private=true&show_icons=true" alt="cdw1p's github stats" />
 </a>
