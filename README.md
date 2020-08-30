@@ -8,21 +8,25 @@ Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile 
 [![Facebook: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cdw1p/)](https://www.facebook.com/cdw1p/)
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/php.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-<img src="https://img.icons8.com/color/48/000000/joomla.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/office-365.png"/>
-<img src="https://img.icons8.com/color/48/000000/google-docs.png"/>
-<img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
-<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/35/000000/python.png"/>
+<img src="https://img.icons8.com/color/35/000000/javascript.png"/>
+<img src="https://img.icons8.com/35/officel/php-logo.png"/>
+<img src="https://img.icons8.com/color/35/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/35/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/35/000000/sql.png"/>
+<img src="https://img.icons8.com/color/35/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/35/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/35/000000/bot.png"/>
+<img src="https://img.icons8.com/color/35/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/35/000000/docker.png"/>
+<img src="https://img.icons8.com/color/35/000000/wordpress.png"/>
+<img src="https://img.icons8.com/color/35/000000/joomla.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/>
+<img src="https://img.icons8.com/color/35/000000/office-365.png"/>
+<img src="https://img.icons8.com/color/35/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/35/000000/linux.png"/>
+<img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>
 </p>
 
 ----
