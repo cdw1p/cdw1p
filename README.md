@@ -16,7 +16,6 @@ Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile 
 <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/more.png"/>
 </p>
 
 ---
