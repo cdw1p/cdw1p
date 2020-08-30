@@ -20,12 +20,12 @@ Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile 
 
 ---
 
+# Cahyo Dwi Putro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdw1p&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=cdw1p)
 [![Linkedin: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cdw1p/)](https://www.linkedin.com/in/cdw1p/)
 [![Facebook: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cdw1p/)](https://www.facebook.com/cdw1p/)
-
-# Cahyo Dwi Putro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Hi, I'm Cahyo Dwi Putro 👨 (he/him) — a freelance, remote security analyst and currently working on PT Pelindo Daya Sejahtera. I live in East Java, Indonesia and am an Malay native. 🙌 I'm working Fullstack Web Developer with PHP and Javascript as Backend , ReactJS & Native as Frontend , React Native as Mobile , Manage projects with git and understanding to deploy and publish projects on cpanel, vps, or docker 💕
 
