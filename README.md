@@ -1,5 +1,26 @@
 Cybersecurity Expert , Programming Language Agnostic , Tech Enthusiast , Mobile and Web Developer.
 
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img src="https://img.icons8.com/color/48/000000/joomla.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/office-365.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-docs.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/more.png"/>
+</p>
+
+---
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdw1p&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=cdw1p)
 [![Linkedin: Cahyo Dwi Putro](https://img.shields.io/badge/-Cahyo%20Dwi%20Putro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cdw1p/)](https://www.linkedin.com/in/cdw1p/)
