@@ -28,7 +28,7 @@
 - ⭐ **Web Development**
   - **Backend** : Express.js, Node.js, Laravel, PHP Native
   - **Frontend** : Javascript, React.js, Next.js, TailwindCSS, Bootstrap
-    - **Template Engine** : EJS, Pug, Handlebars, HTML
+  - **Template Engine** : EJS, Pug, Handlebars, HTML
 
 
 ### 📊 Some Performance Statistics
