@@ -28,7 +28,7 @@
 
 ### ⚡ Experience :
 - Face Recognition, Face Detection, Natural Language Process (NLP), Image Recognition
-- Bot Automation, QA Automation, Web Automation, Web RTC (Real-Time Communication)
+- Bot Automation, QA Automation, Web Automation, Web Scrapping, Web RTC (Real-Time Communication)
 - Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
 
 ### 📊 Statistics :
