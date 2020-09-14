@@ -16,10 +16,9 @@
 
 
 ### ⚡ Technology Experience :
-- **AI & ML** : Face Recognition, Face Detection, Natural Language Process (NLP), Image Recognition
-- **Automation** : Bot Automation, QA Automation, Web Automation
-- **Real-Time Communication** : SocketIO, PeerJS
-- **Cloud** : Firebase, G Suite, Amazon Web Services (AWS)
+- Face Recognition, Face Detection, Natural Language Process (NLP), Image Recognition
+- Bot Automation, QA Automation, Web Automation, Web RTC (Real-Time Communication)
+- Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
 
 
 ### 🚀 Skills :
@@ -29,7 +28,7 @@
 - ⭐ **Web Development**
   - **Backend** : Express.js, Node.js, Laravel, PHP Native
   - **Frontend** : Javascript, React.js, Next.js, TailwindCSS, Bootstrap
-    - **Template Engine** : Ejs, Pug, Handlebars, HTML
+    - **Template Engine** : EJS, Pug, Handlebars, HTML
 
 
 ### 📊 Some Performance Statistics
