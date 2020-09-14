@@ -17,6 +17,7 @@
 
 ### ⚡ Technology Experience :
 - **AI & ML** : Face Recognition, Face Detection, Natural Language Process (NLP), Image Recognition
+- **Automation** : Bot Automation, QA Automation, Web Automation
 - **Real-Time Communication** : SocketIO, PeerJS
 - **Cloud** : Firebase, G Suite, Amazon Web Services (AWS)
 
