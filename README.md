@@ -12,7 +12,7 @@
 ### 📋 Current Activity :
 - 📖 I’m Focus on Automation, Artificial Intelligence and Machine Learning;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
-- 💼 I’m pursuing a Bachelor's Degree in Informatics Engineering;
+- 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
 
 ### ⚡ Technology Experience :
