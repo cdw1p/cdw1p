@@ -24,6 +24,7 @@
 - 💻 **Desktop Apps** : Visual Basic .NET, Electron.js
 - 🎮 **Mobile Apps** : React Native
 - 📐 **Graphic Design** : CorelDraw, Adobe Photoshop
+- 🔐 **Security** : OWASP  Vulnerabilities
 - 🎉 **Additional** : Ms. Office, OS (Win, Unix, Mac), Basic Networking, MikroTik
 
 ### ⚡ Experience :
