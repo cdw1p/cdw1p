@@ -1,4 +1,4 @@
-## Hi I'm Cahyo (he/him) 👋
+## Hi I'm Cahyo (😄 Pronouns: he/him/his) 👋
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cdw1p&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=cdw1p)
@@ -9,30 +9,38 @@
 
 ----
 
-#### ✨ I live in East Java, and now working as freelancer Security Analyst (half-time)
-### 📋 Current Activity :
+> **✨ I live in East Java - Indonesian, I’m currently working as Information Technology Technical Support (full-time) and as freelancer Security Analyst (half-time). ❤ Serverless, DevCommunity, Security, and Creative Coding! 😊** 
+
+## 📋 Current Activity :
 - 📖 I’m Focus on Automation, Artificial Intelligence and Machine Learning;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
-### 🚀 Skills & Knowledge :
-- ⭐ **Web Development**
-  - **Backend** : Express.js, Node.js, Laravel, PHP Native
-  - **Frontend** : Javascript, React.js, Next.js, TailwindCSS, Bootstrap
-  - **Template Engine** : EJS, Pug, Handlebars, HTML
-- 📝 **DBMS** : MySQL PostgreSQL, Oracle, SQLite3, MongoDB, LowDB
-- 💻 **Desktop Apps** : Visual Basic .NET, Electron.js
-- 🎮 **Mobile Apps** : React Native
-- 📐 **Graphic Design** : CorelDraw, Adobe Photoshop
-- 🔐 **Security** : OWASP  Vulnerabilities
-- 🎉 **Additional** : Ms. Office, OS (Win, Unix, Mac), Basic Networking, MikroTik
-
-### ⚡ Experience :
+## ⚡ Experience :
 - Face Recognition, Face Detection, Natural Language Processing (NLP), Image Recognition
 - Bot Automation, QA Automation, Web Automation, Web Scrapping, Web RTC (Real-Time Communication)
 - Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
 
-### 📊 Statistics :
+## 🚀 Skills & Knowledge :
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+## 📊 Statistics :
 <a href="https://github.com/cdw1p/">
 <img src="https://github-readme-stats.vercel.app/api?username=cdw1p&hide=issues&count_private=true&show_icons=true" alt="cdw1p's github stats" />
 </a>
