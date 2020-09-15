@@ -24,10 +24,10 @@
 - 💻 **Desktop Apps** : Visual Basic .NET, Electron.js
 - 🎮 **Mobile Apps** : React Native
 - 📐 **Graphic Design** : CorelDraw, Adobe Photoshop
-- 🎉 **Additional** : Ms. Office, OS (Win, Unix, Mac), Access Point, MikroTik
+- 🎉 **Additional** : Ms. Office, OS (Win, Unix, Mac), Basic Networking, MikroTik
 
 ### ⚡ Experience :
-- Face Recognition, Face Detection, Natural Language Process (NLP), Image Recognition
+- Face Recognition, Face Detection, Natural Language Processing (NLP), Image Recognition
 - Bot Automation, QA Automation, Web Automation, Web Scrapping, Web RTC (Real-Time Communication)
 - Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
 
