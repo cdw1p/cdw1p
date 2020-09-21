@@ -17,7 +17,7 @@
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
 ## ⚡ Experience :
-- Face Recognition, Face Detection, Natural Language Processing (NLP), Image Recognition
+- Face Recognition, Face Detection, Image Recognition, Natural Language Processing (NLP), Speech (TTS & STT)
 - Bot Automation, QA Automation, Web Automation, Web Scrapping, Web RTC (Real-Time Communication)
 - Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
 
