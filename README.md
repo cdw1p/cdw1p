@@ -12,7 +12,7 @@
 > **✨ I live in East Java - Indonesian, I’m currently working as Information Technology Technical Support (full-time) and as freelancer Security Analyst (half-time). ❤ Serverless, DevCommunity, Security, and Creative Coding! 😊** 
 
 ## 📋 Current Activity :
-- 📖 I’m Focus on Automation, Artificial Intelligence and Machine Learning;
+- 📖 I’m Focus on Automation, Artificial Intelligence, Deep Learning and Machine Learning;
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
