@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cdw1p/)](https://www.linkedin.com/in/cdw1p/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/cdw1p/)](https://www.facebook.com/cdw1p/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cdw1@outlook.co.id)](mailto:cdw1@outlook.co.id)
-[![Website Badge](https://img.shields.io/badge/-Github%27s%20Page-gray?style=flat-square&logo=Github&logoColor=white&link=https://cdw1p.github.io/)](https://cdw1p.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Github%27s%20Page-gray?style=flat-square&logo=Github&logoColor=white&link=https://www.cdw1p.xyz/)](https://www.cdw1p.xyz/)
 
 ----
 
