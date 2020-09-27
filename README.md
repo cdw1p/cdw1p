@@ -16,11 +16,6 @@
 - 🤔 My Interests Are with Front-End & Backend Then I Decide to Do Fullstack;
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
-## ⚡ Experience :
-- Face Recognition, Face Detection, Image Recognition, Natural Language Processing (NLP), Speech (TTS & STT)
-- Bot Automation, QA Automation, Web Automation, Web Scrapping, Web RTC (Real-Time Communication)
-- Caching Data Using Redis, Firebase, G Suite, Amazon Web Services (AWS)
-
 ## 🚀 Skills & Knowledge :
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
