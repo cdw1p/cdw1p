@@ -9,7 +9,7 @@
 
 ----
 
-> **✨ I live in East Java - Indonesian, I’m currently working as Information Technology Technical Support (full-time) and as freelancer Security Analyst (half-time). ❤ Serverless, DevCommunity, Security, and Creative Coding! 😊** 
+> **<em>✨ I live in East Java - Indonesian, I’m currently working as Information Technology Technical Support (full-time) and as freelancer Security Analyst (half-time). ❤ Serverless, DevCommunity, Security, and Creative Coding! 😊</em>** 
 
 ## 📋 Current Activity :
 - 📖 I’m Focus on Automation, Artificial Intelligence, Deep Learning and Machine Learning;
