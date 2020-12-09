@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/cdw1p/) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/cdw1p/)
 [![Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:cdw1@outlook.co.id)
-[![Github](https://img.shields.io/badge/--github?label=Github%27s%20Page&logo=Github&style=social)](https://www.cdw1p.xyz/)
+[![Github](https://img.shields.io/badge/--github?label=Github%27s%20Page&logo=Github&style=social)](https://www.cahyodwi.my.id/)
 
 ----
 
