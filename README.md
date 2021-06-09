@@ -18,4 +18,4 @@
 - 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 
 #### 🏆 Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=cdw1p)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cdw1p&title=MultiLanguage,Stars,Commit,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
